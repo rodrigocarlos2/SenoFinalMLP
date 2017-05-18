@@ -1,0 +1,14 @@
+%Quantidades de neurônios na camada de Entrada In
+In = 1;
+
+%Quantidade de neurônios na camada Escondida H
+H = 16;
+
+%Quantidade de neurônios na camada de Saida Out
+Out = 1; 
+
+%Definindo a taxa de aprendizagem - Valor Eta.
+eta = 0.0001;
+
+%Quantidade de épocas
+Epocas = 1800;
